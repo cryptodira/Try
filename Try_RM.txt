@@ -2,3 +2,31 @@ Try
 Try 
 Try
 Try this process
+Follow the path of change
+
+Git commands
+
+git add try.txt  ##moved file to staging area
+>git add -A . (. = current directory)
+>git reset <filename>
+>git diff HEAD
+>git push
+>git pull
+>git stash
+>git commit
+>git status
+>git log, —summary
+    
+Alias:Try Folder1$ git log
+commit 83556d5c8b0a2308ecdcf98eef5223658c792c90
+AUTHOR: CRYPTODIRA <CRYPTODIRA@USERS.NOREPLY.GITHUB.COM>
+Date:   Fri Jul 31 07:48:26 2015 -0700
+
+    Rename ReadMe.txt to Try_RM.txt
+    
+    Follow the path of change
+
+    -git log, --summary
+    git status
+
+
