@@ -13,9 +13,13 @@ git add try.txt  ##moved file to staging area
 >git push
 >git pull
 >git stash
->git commit
+>git commit, origin, mater
 >git status
 >git log, —summary
+>git merge
+>git branch, clean_up
+>git checkout
+>git rm
     
 Alias:Try Folder1$ git log
 commit 83556d5c8b0a2308ecdcf98eef5223658c792c90
